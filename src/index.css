@@ -1,0 +1,11 @@
+@import "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css";
+
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('./fonts/webfont.woff') format('woff'), /* Pretty Modern Browsers */
+  }
+
+.root {
+    background: #000;
+    font-family: 'MyWebFont';
+}
